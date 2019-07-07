@@ -187,4 +187,17 @@
       }
     });
 
+
+  setInterval(function() {
+    let $introSection = $('[id*="intro"]');
+    if ($introSection.attr('id') === 'intro'){
+      $introSection.attr('id', 'intro2');
+    } else if ($introSection.attr('id') === 'intro2'){
+      $introSection.attr('id', 'intro3');
+    } else if ($introSection.attr('id') === 'intro3'){
+      $introSection.attr('id', 'intro');
+    }
+  }, 3000);
+
+
 })(jQuery);
