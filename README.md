@@ -27,6 +27,18 @@ Finish time: __4:00__
 Actual time needed to complete: __3 hours and 15 minutes__
 
 
+#### Extension - Feature #1:  Add functionality
+* As a user, I want to view a unique portfolio so that the developer’s projects and skills stand out.
+
+Estimate of time needed to complete: __2 hours__
+
+Start time: __12:45__
+
+Finish time: __4:00__
+
+Actual time needed to complete: __3 hours and 15 minutes__
+
+
 ## Resources
 * Built with an [HTML5 Up](https://html5up.net/) template
 * Free images from Unsplash
