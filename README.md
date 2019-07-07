@@ -34,9 +34,9 @@ Estimate of time needed to complete: __1 hour__
 
 Start time: __6:00__
 
-Finish time: __ __
+Finish time: __7:30__
 
-Actual time needed to complete: __ __
+Actual time needed to complete: __1:30__
 
 
 ## Resources
