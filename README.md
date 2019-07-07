@@ -22,9 +22,9 @@ Estimate of time needed to complete: __2 hours__
 
 Start time: __12:45__
 
-Finish time: __ __
+Finish time: __4:00__
 
-Actual time needed to complete: __ __
+Actual time needed to complete: __3 hours and 15 minutes__
 
 
 ## Resources
